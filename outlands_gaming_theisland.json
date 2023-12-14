@@ -37,13 +37,13 @@
     "links": [
       {
         "link1": {
-          "text": "Discord",
+          "text": "<RichColor Color=\"1,1,1,1\">Discord</>",
           "url": "https://discord.gg/2X6HHrDA"
         }
       },
       {
         "link2": {
-          "text": "Dododex",
+          "text": "<RichColor Color=\"1,1,1,1\">Dododex</>",
           "url": "https://www.dododex.com"
         }
       }
