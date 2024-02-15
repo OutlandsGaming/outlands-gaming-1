@@ -42,9 +42,15 @@
         }
       },
       {
-        "link2": {
+        "link1": {
           "text": "<RichColor Color=\"1,1,1,1\">Dododex</>",
           "url": "https://www.dododex.com"
+        }
+      },
+      {
+        "link2": {
+          "text": "<RichColor Color=\"1,1,1,1\">ARK Wiki</>",
+          "url": "https://ark.wiki.gg/wiki/ARK_Wiki"
         }
       }
     ]
